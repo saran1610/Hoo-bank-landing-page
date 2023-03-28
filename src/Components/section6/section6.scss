@@ -1,0 +1,40 @@
+.section6{
+    padding: 70px 0px;
+    img{
+        width: 250px;
+        transition: all 0.4s ease-in-out;
+        display: inline-block;
+        // &:hover{
+        //     color: aqua;
+        // }
+    }
+    .page{
+        padding-top: 70px;
+        h1{
+            font-size: 48px;
+        }
+        p{
+            width: 42%;
+            line-height: 1.9;
+            padding-top: 20px;
+        }
+    }
+    // button{
+    //     margin-top: 50px;
+    //     padding: 15px 30px;
+    //     background-color:#5ce1e6;
+    //     border: 1px solid;
+    //     border-radius: 10px;
+    // a{
+    //    color: black;
+    //     text-decoration: none;
+    // }
+    // }
+    Button{
+        margin-top: 80px;
+    }
+    .pic img{
+        display: block;
+        width: 100%;
+    }
+}

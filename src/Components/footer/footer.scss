@@ -1,0 +1,33 @@
+.footer{
+    background-color: black;
+    padding: 70px 0px;
+    color: white;
+    li{
+        list-style: none;
+        line-height: 2.6;
+      
+        a{
+            text-decoration: none;
+            color: white;
+            &:hover{
+                color: aqua;
+            }
+        }
+    }
+    .footerlast{
+        display: flex;
+        justify-content: space-between;
+       span{
+        padding: 10px;
+        font-size: 25px;
+        a{
+            text-decoration: none;
+            color: white;
+            &:hover{
+                color: aqua;
+            }
+        }
+       
+       }
+    }
+}
